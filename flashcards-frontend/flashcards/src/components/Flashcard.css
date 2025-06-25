@@ -1,0 +1,14 @@
+.flashcard {
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+  perspective: 1000px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  background: #fefefe;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.front, .back {
+  font-size: 1.2rem;
+}
